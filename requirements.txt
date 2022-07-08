@@ -1,0 +1,5 @@
+apache-beam[gcp]
+pandas
+matplotlib
+pyqt5
+requests
